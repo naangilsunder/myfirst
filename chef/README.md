@@ -1,4 +1,0 @@
-myfirst.txt
-=======
-
-myfirstGitHubsample
